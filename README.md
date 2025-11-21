@@ -14,7 +14,8 @@ This project implements a high-performance CUDA-accelerated K-Means clustering a
 ---
 
 ## 📁 Project Structure
-cuda-clahe/
+```
+cuda-kmean/
 │
 ├── src/
 │ ├── kmean_parallel
@@ -38,7 +39,7 @@ cuda-clahe/
 ├── output_visualization.ipynb
 ├──README.md # Project documentation
 └── presentation.pdf # slide
-
+```
 ---
 
 ## ⚙️ Requirements
